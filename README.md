@@ -27,25 +27,6 @@ A machine learning-based web application that predicts the risk of cervical canc
 
 ---
 
-## 📁 Project Structure
-cancerDetectionCode/
-│
-├── backend/
-
-│ ├── app.py # Flask API
-│ ├── train_model.py # Model training script
-│ ├── model.pkl # Trained ML model
-│
-
-├─ frontend/
-│ ├── index.html # UI
-│ ├── script.js # API integration
-│ ├── style.css # Styling
-│
-
-├── requirements.txt # Dependencies
-├── cervical-cancer_csv.csv # Dataset
-└── README.md
 
 
 ---
